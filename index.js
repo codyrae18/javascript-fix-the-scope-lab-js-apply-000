@@ -3,7 +3,7 @@ var animal = 'dog'
 function myAnimal() {
     
     if (string() === dog) {
-  return animal 
+  return myAnimal 
 }
 }
 
