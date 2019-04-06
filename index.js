@@ -2,14 +2,14 @@ var animal = 'dog'
 
 function myAnimal(string) {
     
-    if (string() === animal) {
+    if (string === animal) {
   return myAnimal 
 }
 }
 
 function yourAnimal() {
    
-   if (string() !== animal) {
+   if (string !== animal) {
    return yourAnimal
    }
 }
