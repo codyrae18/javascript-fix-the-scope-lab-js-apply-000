@@ -7,7 +7,7 @@ function myAnimal(string) {
 }
 }
 
-function yourAnimal() {
+function yourAnimal(string) {
    
    if (string === animal) {
    return "Your animal"
