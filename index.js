@@ -3,14 +3,14 @@ var animal = 'dog'
 function myAnimal(string) {
     
     if (string === animal) {
-  return dog 
+  return myAnimal() 
 }
 }
 
 function yourAnimal() {
    
    if (string !== animal) {
-   return cat
+   return yourAnimal()
    }
 }
 
