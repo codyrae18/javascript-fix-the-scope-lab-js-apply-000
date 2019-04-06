@@ -10,7 +10,7 @@ function myAnimal(string) {
 function yourAnimal() {
    
    if (string === animal) {
-   return yourAnimal
+   return animal
    }
 }
 
