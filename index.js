@@ -9,7 +9,7 @@ function myAnimal() {
 
 function yourAnimal() {
    
-   if (string() === animal) {
+   if (string() !== animal) {
    return yourAnimal
    }
 }
