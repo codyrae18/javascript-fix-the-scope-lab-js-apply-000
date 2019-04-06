@@ -1,12 +1,17 @@
 var animal = 'dog'
 
 function myAnimal() {
-    if (myAnimal() === string) 
+    
+    if (myAnimal() === dog) {
   return animal 
+}
 }
 
 function yourAnimal() {
+   
+   if (yourAnimal() === cat) {
    return animal 
+   }
 }
 
 // How can we make sure that this function
