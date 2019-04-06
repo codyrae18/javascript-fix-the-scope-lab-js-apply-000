@@ -1,6 +1,6 @@
 var animal = 'dog'
 
-function myAnimal() {
+function myAnimal(string) {
     
     if (string() === animal) {
   return myAnimal 
