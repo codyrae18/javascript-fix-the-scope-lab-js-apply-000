@@ -2,15 +2,15 @@ var animal = 'dog'
 
 function myAnimal() {
     
-    if (string() === dog) {
-  return myAnimal 
+    if (string() === animal) {
+  return animal 
 }
 }
 
 function yourAnimal() {
    
-   if (string() === cat) {
-   return yourAnimal
+   if (string() === animal) {
+   return animal
    }
 }
 
