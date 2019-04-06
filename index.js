@@ -6,7 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-   return cat 
+   return "cat" 
 }
 
 // How can we make sure that this function
