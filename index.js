@@ -2,7 +2,6 @@ var animal = 'dog'
 
 function myAnimal() {
     if (string.toLowerCase() === string) {
-    return "I can't hear you!";
   return animal 
 }
 
